@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import Axios from 'axios';
-import Map from './Map';
 import './App.css';
 
 function App() {
@@ -40,7 +39,6 @@ return (
           <p className='bottom-row'>Internet Service Provider:</p>
           <p className='bottom-row'>{ipDetails.org}</p>
       </div>
-      <Map lat={lat} lon={lon} />
     </div>
   </div>
 );

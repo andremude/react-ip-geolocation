@@ -44,45 +44,6 @@ html {
   }
 }
 
-.map {
-  width: 550px;
-  height: 350px;
-  border: 4px solid white;
-  border-radius: 4px;
-  position: relative;
-  margin-left: 5px;
-}
-
-@media (max-width: 992px) {
-  .map {
-    width: 350px;
-    height: 350px;
-  }
-}
-
-.mapboxgl-ctrl-attrib-button {
-  display: none
-}
-.mapboxgl-ctrl-attrib-inner {
-  display: none
-}
-
-.mark {
-  padding: 50px;
-  border-radius: 50%;
-  background-color: #d2d8fabe;
-  position: absolute;
-  bottom: 300px;
-  left: 200px;
-}
-
-@media (max-width: 992px) {
-  .mark {
-    bottom: 310px;
-    left: 100px;
-  }
-}
-
 .location-pin {
   color: #b11111;
 }
