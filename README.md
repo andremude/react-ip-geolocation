@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Reaect IP Geolocation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Setup
+
+Clone project: `git@github.com:andremude/react-ip-geolocation.git`
+run `npm install`
+Set `REACT_APP_API_KEY` at `.env` file from `https://ipapi.co/`
+
+## Dependencies 
+<ul>
+  <li>"react": "^18.2.0"</li>
+  <li>"react-dom": "^18.2.0"</li>
+  <li>"react-icons": "^4.4.0"</li>
+  <li>"react-map-gl": "^7.0.19"</li>
+  <li>"react-scripts": "5.0.1"</li>
+  <li>"@picocss/pico": "^1.5.3"</li>
+  <li>"axios": "^0.27.2"</li>
+  <li>"dotenv": "^16.0.2"</li>
+</ul>    
 
 ## Available Scripts
 
@@ -39,32 +57,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![ip-geolocation](https://github.com/andremude/react-ip-geolocation/assets/71613801/8c413cbe-b86c-4ef9-a5aa-94601cf79363)
