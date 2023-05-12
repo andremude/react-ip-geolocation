@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Setup
 
 Clone project: `git@github.com:andremude/react-ip-geolocation.git`
+
 run `npm install`
+
 Set `REACT_APP_API_KEY` at `.env` file from `https://ipapi.co/`
 
 ## Dependencies 
